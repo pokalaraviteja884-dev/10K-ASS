@@ -1,51 +1,51 @@
-'''1)n=int(input())
+n=int(input())
 for i in range(1,n+1):
-    print(i)'''
-'''2)n=int(input())
+    print(i)
+n=int(input())
 m=int(input())
 for i in range(n,m+1):
-    print(i)'''
-''''3)n=int(input())
+    print(i)
+n=int(input())
 for i in range(n,0,-1):
-    print(i)'''
-'''4)n=int(input())
+    print(i)
+n=int(input())
 m=int(input())
 for i in range(n,m,-1):
-    print(i)'''
-'''5)n=int(input())
+    print(i)
+n=int(input())
 sum=0
 for i in range(1,n+1):
     sum+=i
-print(sum)'''
-'''6)n=int(input())
+print(sum)
+n=int(input())
 sum=1
 for i in range(1,n+1):
     sum*=i
-print(sum)'''
-'''7)n=int(input())
+print(sum)
+n=int(input())
 m=int(input())
 sum=0
 for i in range(n,m+1):
     sum+=i
-print(sum)'''
-'''8)m=int(input())
+print(sum)
+m=int(input())
 n=int(input())
 pro=1
 for i in range(m,n+1):
     pro*=m
     m+=1
-print(pro)'''
-'''9)n=int(input())
+print(pro)
+n=int(input())
 for i in range(1,n+1):
     if n%i==0:
-        print(i)'''
-'''10)n=int(input())
+        print(i)
+n=int(input())
 count=0
 for i in range(1,n+1):
     if n%i==0:
         count+=1
-print(count)'''
-'''11)n=int(input())
+print(count)
+n=int(input())
 count=0
 for i in range(2,n+1):
     if n%i==0:
@@ -53,17 +53,17 @@ for i in range(2,n+1):
 if count==1:
     print('prime')
 else:
-    print('not prime')'''
-'''12)m=int(input())
+    print('not prime')
+m=int(input())
 n=int(input())
 for i in range(m,n+1):
     if i%2==0:
-        print(i)'''
-'''13)m=int(input())
+        print(i)
+m=int(input())
 n=int(input())
 for i in range(m,n+1):
     if i%2!=0:
-        print(i)'''
+        print(i)
 '''14)m=int(input())
 n=int(input())
 even=0
